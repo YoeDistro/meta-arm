@@ -1,6 +1,6 @@
 require fvp-envelope.inc
 
-LICENSE:append = " & Artistic-2.0 & BSL-1.0 & BSD-2-Clause & Unlicense"
+LICENSE:append = " AND Artistic-2.0 AND BSL-1.0 AND BSD-2-Clause AND Unlicense"
 
 SUMMARY = "Arm Fixed Virtual Platform - Armv-A Base RevC Architecture Envelope Model FVP"
 LIC_FILES_CHKSUM = "file://license_terms/license_agreement.txt;md5=1a33828e132ba71861c11688dbb0bd16 \

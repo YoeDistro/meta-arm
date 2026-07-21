@@ -1,6 +1,6 @@
 DESCRIPTION = "Trusted Firmware-A"
 HOMEPAGE = "https://trustedfirmware-a.readthedocs.io/"
-LICENSE = "BSD-2-Clause & BSD-3-Clause & MIT & Apache-2.0"
+LICENSE = "Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND MIT"
 
 inherit firmware
 
